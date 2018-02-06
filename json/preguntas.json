@@ -64,9 +64,6 @@
       {
         "type": "checkbox",
         "title": "¿Quiénes matan a Krilin en Dragon Ball?",
-        "#text": "
-    https://pm1.narvii.com/6468/cac253bfa5b5f9d329d0ddc0bb36d28f7718e1ee_hq.jpg
-  ",
         "option": [
           "Freezer",
           "Celula",
@@ -82,7 +79,7 @@
       },
       {
         "type": "checkbox",
-        "title": "Quien de estos androides fueron absorvidos por CELl?",
+        "title": "Quien de estos androides fueron absorvidos por CELL?",
         "option": [
           "a-16",
           "a-17",

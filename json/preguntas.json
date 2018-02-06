@@ -1,5 +1,5 @@
 {
-  "questions": {
+  
     "question": [
       {
         "type": "text",
@@ -117,5 +117,5 @@
         "answer": "4"
       }
     ]
-  }
+  
 }

@@ -7,24 +7,26 @@
 
 
 html,body{
-   width:100%;
+    width:100%;
     height:100%;
     margin: 0;
     padding:0;
-    background-color:#73B1C1  
+     
 }
 
 
 
 .container {
-    width: 60%;
+    width: 100%;
     margin: 0 auto;
     background-color: grey;
     padding-top: 140px;
     text-align: center;
    font-family: 'SaiyanSans' !important;
     font-size: 135%;
-    background-image: url("../img/dragonball.jpg");
+    background-image: url("../img/namek.png");
+    
+    
        
 }
 
@@ -46,22 +48,21 @@ html,body{
 
 #logotipo{
 position:absolute;
-right:30%;
-top:5%;
-width:100px;
-height:90px;
+right:0%;
+top:10%;
+width:60px;
+height:70px;
 opacity: 0.8;
     }
     
 #logotipo2{
 position:absolute;
-left:30%;
-top:5%;
-width:100px;
-height:90px;
+left:0%;
+top:10%;
+width:60px;
+height:70px;
 opacity: 0.8;
-
-}
+    }
 
 #bola4 {
     position:fixed;

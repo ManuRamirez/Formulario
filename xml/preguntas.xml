@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions SYSTEM "questions.dtd">
+<questions>
+ <question>
+  	<type>text</type>
+  		<title>¿Cómo se llama el creador de Dragon Ball?</title>
+  			<answer>Akira Toriyama</answer>
+ </question>
+    
+    
+    
+ <question>
+  <type>text</type>
+  	<title>¿Como se llama la nieta de Goku y a su vez la hija de Son Gohan?</title>
+  		<answer>Pan</answer>
+ </question>
+    
+    
+    
+ <question>
+  <type>select</type>
+  <title>¿Quién encerró al anciano Kaioshin en la espada Z?</title>
+  <option>Kibito</option>
+  <option>Bibidi</option> 
+  <option>Majin boo</option>
+  <option>Bills el dios de la destruccion</option>
+  <answer>3</answer>
+ </question>
+    
+  <question>
+  <type>select</type>
+  <title>¿Qué deseo quiso pedir el General Red al dragon Shenron?</title>
+  <option>Dominar el mundo</option>
+  <option>Ser mas alto</option> 
+  <option>Ser el mas fuerte del mundo</option>
+  <answer>2</answer>
+ </question>  
+    
+ 
+ <question>
+  <type>multiple</type>
+  <title>Cuales de estos son integrantes del ejercito de Ginyu?</title>
+  <option>Dodoria</option>
+  <option>Zarboon</option> 
+  <option>Recoome</option> 
+  <option>Jeice</option>
+  <option>Vegeta</option>
+  <answer>3</answer>
+  <answer>4</answer>
+ </question>
+
+
+<question>
+  <type>multiple</type>
+  <title>Quien de estos son Namekianos</title>
+  <option>Dende</option>
+  <option>Yajirobe</option> 
+  <option>Lord Slug</option> 
+  <option>Freezer</option>
+  <answer>1</answer>
+  <answer>3</answer>
+ </question>
+    
+    
+    
+    
+<question>
+  <type>checkbox</type>
+  <title>¿Quiénes matan a Krilin en Dragon Ball?</title>
+    
+  <option>Freezer</option>
+  <option>Celula</option> 
+  <option>Majin Buu</option> 
+  <option>Vegeta</option>
+  <option>Tambor(hijo de Piccolo)</option>
+  <answer>1</answer>
+  <answer>3</answer>
+  <answer>5</answer>
+  </question>
+    
+    
+    
+    
+<question>
+  <type>checkbox</type>
+  <title>Quien de estos androides fueron absorvidos por CELl?</title>
+  <option>a-16</option>
+  <option>a-17</option> 
+  <option>a-18</option> 
+  <option>a-19</option>
+  <option>Krilin</option>
+  <answer>2</answer>
+  <answer>3</answer>
+ </question>
+    
+    
+    
+    
+    <question>
+  <type>radio</type>
+  <title>¿Cual es el nombre real de Goku?</title>
+  <option>Goku</option>
+  <option>Kakarot</option> 
+  <option>Ozaru</option>
+  <answer>2</answer>
+ </question>
+    
+    <question>
+  <type>radio</type>
+  <title>¿Cuál fue el primer deseo que le pidieron al dragón Shenlong en la serie?</title>
+  <option>La mejor comida del mundo</option>
+  <option>Paz mundial</option> 
+  <option>Dinero infinito</option>
+  <option>Unas bragas</option>
+  <answer>4</answer>
+
+</question>
+    
+    
+      
+</questions>

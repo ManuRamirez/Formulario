@@ -9,3 +9,6 @@ Se ha añadido el logotipo de la pagina que es un dragon con unas letras que pon
 
 V 1.18
 Se han añadido los css de movil tanto en instrucciones como en el formulario
+
+V.19
+Se han modificado las fuentes de letra para mejorar su visibilidad en contraste con el fondo

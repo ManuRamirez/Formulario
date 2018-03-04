@@ -1,0 +1,87 @@
+html,body{
+   width:100%;
+    height:100%;
+    margin: 0;
+    padding:0;
+     background-image: url("../img/dragonball.jpg");  
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+}
+
+
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+    background-color: rgba(255,255,255,0.3);
+    padding-top: 140px;
+    text-align: center;
+    font-size: 160%;
+    font-weight: bold;
+    
+    
+    
+}
+
+
+
+.cabecera {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    background-color: #36626A;
+    top: 0;
+    
+}
+
+.preguntas{
+    padding:20px
+}
+
+
+input[type='checkbox'] {
+    -webkit-appearance:none;
+    width:20px;
+    height:20px;
+    background:white;
+    border-radius:5px;
+    border:2px solid #555;
+}
+input[type='checkbox']:checked {
+    background: #abd;
+}
+
+
+input[type='radio'] {
+    -webkit-appearance:none;
+    width:20px;
+    height:20px;
+    background:white;
+    border-radius:5px;
+    border:2px solid #555;
+}
+input[type='radio']:checked {
+    background: #abd;
+}
+
+
+#logotipo{
+position:absolute;
+right:30%;
+top:5%;
+width:100px;
+height:90px;
+opacity: 0.8;
+    }
+    
+#logotipo2{
+position:absolute;
+left:30%;
+top:5%;
+width:100px;
+height:90px;
+opacity: 0.8;
+
+}

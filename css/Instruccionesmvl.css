@@ -1,0 +1,73 @@
+@font-face {
+	font-family: 'SaiyanSans';
+	src: url('../Fonts/SaiyanSans.eot');
+	src: local('SaiyanSans'), url('../Fonts/SaiyanSans.woff') format('woff'), url('../Fonts/SaiyanSans.ttf') format('truetype');
+}
+
+
+
+html,body{
+   width:100%;
+    height:100%;
+    margin: 0;
+    padding:0;
+    background-color:#73B1C1  
+}
+
+
+
+.container {
+    width: 60%;
+    margin: 0 auto;
+    background-color: grey;
+    padding-top: 140px;
+    text-align: center;
+   font-family: 'SaiyanSans' !important;
+    font-size: 135%;
+    background-image: url("../img/dragonball.jpg");
+       
+}
+
+
+
+.cabecera {
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    position: absolute;
+    background-color: #36626A;
+    top: 0;
+}
+
+.preguntas{
+    padding:20px
+}
+
+
+#logotipo{
+position:absolute;
+right:30%;
+top:5%;
+width:100px;
+height:90px;
+opacity: 0.8;
+    }
+    
+#logotipo2{
+position:absolute;
+left:30%;
+top:5%;
+width:100px;
+height:90px;
+opacity: 0.8;
+
+}
+
+#bola4 {
+    position:fixed;
+    top:50%;
+    left:80%;
+    
+    
+    
+}

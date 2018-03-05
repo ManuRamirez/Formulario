@@ -1,3 +1,13 @@
+v 1.1 se ha creado el html inicial de la pagina instrucciones
+
+v 1.11 se ha creado el xml con las preguntas
+
+v 1.12 se ha creado el html que contiene el formulario
+
+v 1.13 se ha creado el archivo json apartir del xml
+
+v 1.14 se ha creado el javascript para leer las preguntas del json y estas sean colocadas en el html
+
 v 1.15
 Se ha añadido Open Graph Protocol
 

@@ -87,6 +87,12 @@ opacity: 0.8;
 
 }
 
+#resultadosDiv{
+    display:none;
+    height: 40%;
+    width: 100%;
+    background-color: white;
+}
 
     
     

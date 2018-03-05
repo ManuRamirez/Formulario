@@ -110,3 +110,10 @@ height:450px;
     position:static;
 height:280px;        
 }
+
+#resultadosDiv{
+    display:none;
+    height: 40%;
+    width: 100%;
+    background-color: white;
+}

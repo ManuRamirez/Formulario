@@ -18,3 +18,8 @@ Se ha cambiado el fondo en la version movil para mejorar el aspecto grafico y qu
 
 v 1.21
 Añadido unos memes para hacer mas divertido el formulario
+
+
+XML validado
+HTML Validado
+CSS Validado

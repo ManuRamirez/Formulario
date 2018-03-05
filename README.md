@@ -31,7 +31,7 @@ v 1.21 Añadido unos memes para hacer mas divertido el formulario
 v 1.22 Se ha añadido autocorrección de las preguntas en javascript
 
 <strong>ERRORES EN EL PROYECTO</strong> <br/>
-Las preguntas se auto corrigen pero la pagina se recarga sola al darle al botón de submit probablemente por un error de javascript que hace no funcionar correctamente el return false. Por lo tanto el div creado con display none no se cambia a style.display="block" con las preguntas corregidas.
+Las preguntas se auto corrigen pero la pagina se recarga sola al darle al botón de submit probablemente por un error de javascript que hace no funcionar correctamente el return false. Por lo tanto el div creado con display none no se cambia a style.display="block" con las preguntas corregidas al pie del formulario.
 
 
 XML validado en https://www.xmlvalidation.com/<br/>

@@ -29,6 +29,12 @@ Se ha cambiado el fondo en la version movil para mejorar el aspecto grafico y qu
 v 1.21
 Añadido unos memes para hacer mas divertido el formulario
 
+v 1.22
+Se ha añadido autocorrecion de las preguntas en javascript
+
+<strong>ERRORES EN EL PROYECTO</strong> <br/>
+Las preguntas se autocorrigen pero la pagina se recarga al darle al boton de corregir probablemente por un error de javascript que hace no funcionar correctamente el return false por lo tanto el div creado con display none no se cambia a display el style.display="block" con las preguntas corregidas.
+
 
 XML validado en https://www.xmlvalidation.com/<br/>
 HTML Y CSS validados en la pagina de w3 school

@@ -1,3 +1,9 @@
+RAWGIT INSTRUCCIONES ---> https://cdn.rawgit.com/ManuRamirez/Formulario/7f3bba55/instruccionesformulario.html
+
+
+---------------------------------------------------------------------------------------------
+
+
 v 1.1 se ha creado el html inicial de la pagina instrucciones
 
 v 1.11 se ha creado el xml con las preguntas

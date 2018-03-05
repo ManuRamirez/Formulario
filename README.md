@@ -1,4 +1,4 @@
-RAWGIT INSTRUCCIONES ---> https://cdn.rawgit.com/ManuRamirez/Formulario/7f3bba55/instruccionesformulario.html
+RAWGIT ---> https://cdn.rawgit.com/ManuRamirez/Formulario/7f3bba55/instruccionesformulario.html
 
 
 ---------------------------------------------------------------------------------------------

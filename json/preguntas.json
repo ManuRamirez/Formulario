@@ -1,5 +1,5 @@
 {
-  
+  "questions": {
     "question": [
       {
         "type": "text",
@@ -30,7 +30,7 @@
           "Ser mas alto",
           "Ser el mas fuerte del mundo"
         ],
-        "answer": "2"
+        "answer": "1"
       },
       {
         "type": "multiple",
@@ -41,10 +41,11 @@
           "Recoome",
           "Jeice",
           "Vegeta"
+            "Tao Pai Pai"
         ],
         "answer": [
-          "3",
-          "4"
+          "2",
+          "3"
         ]
       },
       {
@@ -57,8 +58,8 @@
           "Freezer"
         ],
         "answer": [
-          "1",
-          "3"
+          "0",
+          "2"
         ]
       },
       {
@@ -70,11 +71,15 @@
           "Majin Buu",
           "Vegeta",
           "Tambor(hijo de Piccolo)"
+          "Saibamen"
+          "Satan"
+          "Se suicido por ser calvo"
+            
         ],
         "answer": [
-          "1",
-          "3",
-          "5"
+          "0",
+          "2",
+          "4"
         ]
       },
       {
@@ -88,8 +93,8 @@
           "Krilin"
         ],
         "answer": [
-          "2",
-          "3"
+          "1",
+          "2"
         ]
       },
       {
@@ -100,7 +105,7 @@
           "Kakarot",
           "Ozaru"
         ],
-        "answer": "2"
+        "answer": "1"
       },
       {
         "type": "radio",
@@ -111,8 +116,8 @@
           "Dinero infinito",
           "Unas bragas"
         ],
-        "answer": "4"
+        "answer": "3"
       }
     ]
-  
+  }
 }

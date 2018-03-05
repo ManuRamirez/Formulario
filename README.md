@@ -15,3 +15,6 @@ Se han modificado las fuentes de letra para mejorar su visibilidad en contraste 
 
 V 1.20
 Se ha cambiado el fondo en la version movil para mejorar el aspecto grafico y que no dificulte la visualizacion de otras cosas
+
+v 1.21
+Añadido unos memes para hacer mas divertido el formulario

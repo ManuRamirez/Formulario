@@ -20,5 +20,5 @@ v 1.21
 Añadido unos memes para hacer mas divertido el formulario
 
 
-XML validado en https://www.xmlvalidation.com/
+XML validado en https://www.xmlvalidation.com/<br/>
 HTML Y CSS validados en la pagina de w3 school

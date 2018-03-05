@@ -37,6 +37,8 @@ html,body{
     position: absolute;
     background-color: #36626A;
     top: 0;
+    font-weight: bold;
+    font-family:cursive
 }
 
 .preguntas{

@@ -39,6 +39,7 @@ html,body{
     position: absolute;
     background-color: #36626A;
     top: 0;
+    
 }
 
 .preguntas{
@@ -65,10 +66,7 @@ opacity: 0.8;
     }
 
 #bola4 {
-    position:static;
-    width:130px;
-    height:100px;
-    
-    
-    
+position:static;
+width:130px;
+height:100px;
 }

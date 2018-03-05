@@ -20,7 +20,5 @@ v 1.21
 Añadido unos memes para hacer mas divertido el formulario
 
 
-XML validado
-HTML Validado https://validator.w3.org/nu/?doc=https%3A%2F%2Fcdn.rawgit.com%2FManuRamirez%2FFormulario%2F10a4f88a%2Fformulario.html ;
-https://validator.w3.org/nu/?doc=https%3A%2F%2Fcdn.rawgit.com%2FManuRamirez%2FFormulario%2Fd3822e5e%2Finstruccionesformulario.html
-CSS Validado
+XML validado en https://www.xmlvalidation.com/
+HTML Y CSS validados en la pagina de w3 school

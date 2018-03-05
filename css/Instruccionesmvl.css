@@ -65,11 +65,9 @@ opacity: 0.8;
     }
 
 #bola4 {
+    position:static;
     width:130px;
     height:100px;
-    position:static;
-    bottom:10%;
-    left:80%;
     
     
     
